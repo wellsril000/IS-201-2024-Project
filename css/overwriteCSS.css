@@ -1,0 +1,37 @@
+
+.link{
+    color: blue;
+    float: right;
+}
+
+.title{
+    font-weight: bold;
+}
+
+.body{
+    font-weight: normal;
+}
+
+.image{
+    float: right;
+    margin-right: 1500px;
+}
+
+body{
+     background-color: teal;
+}
+
+div{
+    color: orange;
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.tablueaTitle{
+    margin-bottom: 10px;
+}
+
+.youtubeTitle{
+    margin-top: 20px;
+}
+
